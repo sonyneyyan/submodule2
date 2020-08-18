@@ -1,0 +1,3 @@
+[submodule "submodule3"]
+	path = submodule3
+	url = https://github.com/sonyneyyan/submodule3
